@@ -1,16 +1,14 @@
-## Hi there 👋
+### About me
 
-<!--
-**Kaliumhexacyanoferrat/Kaliumhexacyanoferrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏠 Located in Freiburg, Germany
+- 📖 Working with `C#`, `.NET`, `Java`, `Kotlin`, expert in `HTTP`
+- 🩷 Maintaining [GenHTTP](https://genhttp.org/) webserver on GitHub
+- 🖥️ Fullstack software developer at [ti&m AG](https://github.com/ti8m) in Basel, Switzerland
 
-Here are some ideas to get you started:
+### Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/andreas-n%C3%A4geli-147180252/) | [Twitter](https://x.com/andreas_naegeli) | [Discord](https://discord.gg/GwtDyUpkpV)
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kaliumhexacyanoferrat&show_icons=true&count_private=true" alt="Kaliumhexacyanoferrat" />
