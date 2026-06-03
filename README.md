@@ -8,7 +8,3 @@
 ### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/andreas-n%C3%A4geli-147180252/) | [Discord](https://discord.gg/GwtDyUpkpV)
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kaliumhexacyanoferrat&show_icons=true&count_private=true" alt="Kaliumhexacyanoferrat" />
