@@ -7,4 +7,4 @@
 
 ### Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/andreas-n%C3%A4geli-147180252/) | [Discord](https://discord.gg/GwtDyUpkpV)
+[LinkedIn](https://www.linkedin.com/in/andreas-n%C3%A4geli-147180252/) | [Discord](https://discord.gg/PRkwKrnrB4)
